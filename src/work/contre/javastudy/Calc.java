@@ -14,3 +14,10 @@ public class Calc {
 	}
 
 }
+
+/*
+ * クラス名の先頭は大文字にする。ex. SampleApp
+ * メソッド名・変数名は小文字にする。ex. getValue
+ * メソッド名は、動詞 + 名刺。ex. getValue
+ * 定数名は、すべて大文字。ex. FLAG_ON
+ */
