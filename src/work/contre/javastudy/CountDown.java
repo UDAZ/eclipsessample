@@ -8,3 +8,4 @@ public class CountDown {
 	}
 
 }
+// 1増やす、１減らす
